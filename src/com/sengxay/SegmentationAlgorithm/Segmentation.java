@@ -222,7 +222,7 @@ public class Segmentation {
                 result += str + "|";
             }
 
-            System.out.println(result);
+            System.out.println("Cutting completed...");
 
         }catch(Exception e){
             System.out.println(e);
